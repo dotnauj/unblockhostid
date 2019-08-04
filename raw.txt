@@ -136,6 +136,10 @@ Segala keputusan pribadi termasuk yang berhubungan dengan kepercayaan dengan Tuh
 
 [PORNHUB.COM]
 31.192.120.36 pornhub.com www.pornhub.com
+152.195.34.118 ci.phncdn.com 
+64.210.137.102 ew.phncdn.com
+69.16.175.10 dw.phncdn.com
+205.185.208.142 cdn1d-static-shared.phncdn.com
 
 [TBIB.ORG]
 104.31.90.62 tbib.org
