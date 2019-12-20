@@ -12,7 +12,7 @@
 - 4chan.org
 - Pornhub.com
 - Tbib.org
-- Xhamster.com
+- Xhamster12.com
 - Javfor.me
 - Javfind.com
 - Bejav.net

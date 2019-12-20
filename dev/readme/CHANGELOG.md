@@ -4,7 +4,7 @@
 - Hentaipulse.com
 
 ```
-Fixed bug on Spankbang, Youporn, Theporndude
+Fixed bug on Spankbang, Youporn, Theporndude, F95zone
 Deleted Xhamster, T
 ```
 
