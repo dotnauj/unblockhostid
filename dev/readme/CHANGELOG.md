@@ -1,4 +1,13 @@
 # Changelog
+**v7.7** New sites added, bugs fixed
+- Xhamster12.com
+- Hentaipulse.com
+
+```
+Fixed bug on Spankbang, Youporn, Theporndude
+Deleted Xhamster, T
+```
+
 **v7.6** New sites added, bugs fixed
 - Cfake.com
 - 8muses.com

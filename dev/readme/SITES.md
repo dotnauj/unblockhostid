@@ -500,3 +500,5 @@
 - Ohentai.org
 - Torrentgalaxy.to
 - Toomics.com
+- Xhamster12.com
+- Hentaipulse.com
