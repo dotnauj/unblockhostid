@@ -230,6 +230,8 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.20.135.45 raikou1.donmai.us raikou2.donmai.us raikou3.donmai.us raikou4.donmai.us safebooru.donmai.us
 147.135.4.93 kagamihara.donmai.us
 147.135.10.29 shima.donmai.us
+104.26.10.39 cdn.donmai.us
+45.79.98.156 isshiki.donmai.us
 
 [BROMO.COM]
 94.199.249.240 bromo.com www.bromo.com
