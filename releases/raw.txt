@@ -458,15 +458,11 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
-34.194.103.209 netflix.com www.netflix.com
+52.41.244.189 netflix.com www.netflix.com
 52.37.69.124 netflix.com www.netflix.com
-34.227.4.120 netflix.com www.netflix.com
-34.229.8.114 netflix.com www.netflix.com
-34.233.159.233 netflix.com www.netflix.com
-35.169.83.64 netflix.com www.netflix.com
-52.86.210.197 netflix.com www.netflix.com
-54.80.65.78 netflix.com www.netflix.com
-107.20.175.192 netflix.co.id www.netflix.co.id
+54.69.16.110 netflix.com www.netflix.com
+54.201.91.38 netflix.com www.netflix.com
+18.236.7.30 netflix.co.id www.netflix.co.id
 23.35.181.192 secure.netflix.com
 52.42.49.110 movies.netflix.com
 34.227.70.20 movies1.netflix.com
