@@ -1,9 +1,15 @@
 # Cara Penggunaan
 ## Windows
 
-Jalankan BEBASID.exe dengan "Run as administrator".
+Jalankan BEBASID.exe dengan "Run as administrator". Kemudian ikuti instruksi yang ada.
 
-*Note: Mungkin di perangkat Anda aplikasi ini akan terdeteksi sebagai virus, hal tersebut hanya false positive. Oleh karena itu matikan antivirus sebelum menggunakan.*
+Jika halaman masih belum bisa terbuka, silahkan lakukan flush dns di cmd.
+
+```
+ipconfig /release
+ipconfig /renew
+ipconfig /flushdns
+```
 
 ## Android
 
