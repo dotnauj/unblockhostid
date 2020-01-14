@@ -127,19 +127,45 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 151.101.53.140 i.redd.it
 
 [VIMEO.COM]
-151.101.130.109 i.vimeocdn.com
+151.101.50.109 i.vimeocdn.com
 151.101.64.217 developer.vimeo.com
 151.101.64.217 www.vimeo.com
 151.101.64.217 vimeo.com
 151.101.66.109 f.vimeocdn.com
 184.50.168.24 secure-c.vimeocdn.com
-151.101.64.217 player.vimeo.com
+151.101.48.217 player.vimeo.com
 198.245.92.39 click.email.vimeo.com
 104.156.85.217 api.vimeo.com
 80.239.137.98 a.vimeocdn.com
 151.101.17.133 fpdl.vimeocdn.com
 104.156.81.217 help.vimeo.com
 104.156.81.217 app.vimeo.com
+115.112.2.217 13skyfiregce-vimeo.akamaized.net
+23.15.138.148 gcs-vimeo.akamaized.net
+115.112.2.75 164vod-adaptive.akamaized.net 126vod-adaptive.akamaized.net 179vod-adaptive.akamaized.net
+115.112.2.72 179skyfiregce-vimeo.akamaized.net
+115.112.2.202 54vod-adaptive.akamaized.net
+115.112.2.234 108skyfiregce-vimeo.akamaized.net
+115.112.2.73 54skyfiregce-vimeo.akamaized.net
+115.112.2.251 38skyfiregce-vimeo.akamaized.net
+115.112.2.243 200vod-adaptive.akamaized.net
+115.112.2.179 200skyfiregce-vimeo.akamaized.net
+115.112.2.203 164skyfiregce-vimeo.akamaized.net
+115.112.2.80 126skyfiregce-vimeo.akamaized.net
+115.112.2.235 125skyfiregce-vimeo.akamaized.net
+115.112.2.219 125vod-adaptive.akamaized.net
+115.112.2.195 148vod-adaptive.akamaized.net
+115.112.2.35 148skyfiregce-vimeo.akamaized.net
+115.112.2.24 43skyfiregce-vimeo.akamaized.net
+115.112.2.240 43vod-adaptive.akamaized.net
+115.112.2.24 23vod-adaptive.akamaized.net
+115.112.2.78 23skyfiregce-vimeo.akamaized.net
+115.112.2.123 20skyfiregce-vimeo.akamaized.net
+115.112.2.192 20vod-adaptive.akamaized.net
+23.46.238.243 155skyfiregce-vimeo.akamaized.net
+23.46.238.248 155vod-adaptive.akamaized.net
+67.135.105.115 102vod-adaptive.akamaized.net
+23.46.238.248 102skyfiregce-vimeo.akamaized.net
 
 [THEPIRATEBAY.ORG]
 104.27.216.28 thepiratebay.org
@@ -230,6 +256,8 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.20.135.45 raikou1.donmai.us raikou2.donmai.us raikou3.donmai.us raikou4.donmai.us safebooru.donmai.us
 147.135.4.93 kagamihara.donmai.us
 147.135.10.29 shima.donmai.us
+104.26.10.39 cdn.donmai.us
+45.79.98.156 isshiki.donmai.us
 
 [BROMO.COM]
 94.199.249.240 bromo.com www.bromo.com
@@ -430,13 +458,15 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
+34.194.103.209 netflix.com www.netflix.com
 52.37.69.124 netflix.com www.netflix.com
-35.164.147.207 netflix.com www.netflix.com
-54.71.111.34 netflix.com www.netflix.com
-54.201.91.38 netflix.com www.netflix.com
-35.160.7.30 netflix.com www.netflix.com
-52.41.20.47 netflix.com www.netflix.com
-50.17.247.31 netflix.co.id www.netflix.co.id
+34.227.4.120 netflix.com www.netflix.com
+34.229.8.114 netflix.com www.netflix.com
+34.233.159.233 netflix.com www.netflix.com
+35.169.83.64 netflix.com www.netflix.com
+52.86.210.197 netflix.com www.netflix.com
+54.80.65.78 netflix.com www.netflix.com
+107.20.175.192 netflix.co.id www.netflix.co.id
 23.35.181.192 secure.netflix.com
 52.42.49.110 movies.netflix.com
 34.227.70.20 movies1.netflix.com
@@ -819,6 +849,7 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.24.30.59 hanime.tv www.hanime.tv uploads.hanime.tv ark.hanime.tv cdn.hanime.tv search.hanime.tv
 104.24.30.59 oberon.hanime.tv m.hanime.tv tapi.hanime.tv htv3.hanime.tv members.hanime.tv
 151.101.65.195 player.hanime.tv
+104.28.8.205 search.freeanimehentai.net
 
 [PORNCORN.CO]
 5.254.97.172 porncorn.co www.porncorn.co
@@ -996,7 +1027,12 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 109.236.86.128 files2.gamesofdesire.com
 
 [LUSCIOUS.NET]
-185.180.13.17 luscious.net www.luscious.net
+185.93.1.7 luscious.net www.luscious.net
+104.25.247.113 members.luscious.net
+185.93.0.18 assets.luscious.net
+185.152.66.6 cdna.luscious.net cdni.luscious.net
+185.93.0.18 cdnio.luscious.net
+195.181.162.3 cdnvo.luscious.net
 
 [ICE-PORN.COM]
 199.182.111.134 ice-porn.com www.ice-porn.com
@@ -1086,7 +1122,7 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.31.82.250 rarbgaccess.org www.rarbgaccess.org
 
 [RMZ.CR]
-104.31.16.3 rmz.cr www.rmz.cr
+104.31.18.30 rmz.cr www.rmz.cr
 
 [WAXTUBE.COM]
 104.28.29.213 waxtube.com www.waxtube.com
@@ -1516,7 +1552,7 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 88.208.31.24 jupiter.thisvid.com jupiter1.thisvid.com jupiter2.thisvid.com jupiter3.thisvid.com
 
 [BITPORNO.COM]
-179.43.191.62 bitporno.com www.bitporno.com
+51.91.62.129 bitporno.com www.bitporno.com
 144.217.181.47 api.bitporno.com
 
 [PRIMEVIDEO.COM]
@@ -1995,6 +2031,37 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 82.192.65.65 eporner.com
 82.192.65.65 www.eporner.com
 185.132.134.85 static-eu-cdn.eporner.com
+212.8.243.172 dash-s3-n10-nl-cdn.eporner.com
+185.132.134.87 dash-s2-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s-n10-nl-cdn.eporner.com eu-cdn.eporner.com
+185.132.134.130 dash-s4-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s5-n10-nl-cdn.eporner.com
+185.132.134.87 s2-n10-nl-cdn.eporner.com
+82.192.65.67 s-n10-nl-cdn.eporner.com
+185.132.134.130 s4-n10-nl-cdn.eporner.com
+82.192.65.67 s5-n10-nl-cdn.eporner.com
+212.8.243.172 s3-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s6-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s7-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s8-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s9-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s10-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s11-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s12-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s13-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s14-n10-nl-cdn.eporner.com
+82.192.65.67 dash-s15-n10-nl-cdn.eporner.com
+82.192.65.67 s6-n10-nl-cdn.eporner.com
+82.192.65.67 s7-n10-nl-cdn.eporner.com
+82.192.65.67 s8-n10-nl-cdn.eporner.com
+82.192.65.67 s9-n10-nl-cdn.eporner.com
+82.192.65.67 s10-n10-nl-cdn.eporner.com
+82.192.65.67 s11-n10-nl-cdn.eporner.com
+82.192.65.67 s12-n10-nl-cdn.eporner.com
+82.192.65.67 s13-n10-nl-cdn.eporner.com
+82.192.65.67 s14-n10-nl-cdn.eporner.com
+82.192.65.67 s15-n10-nl-cdn.eporner.com
+
 
 [7MM.TV]
 104.27.146.208 7mm.tv www.7mm.tv
@@ -2121,3 +2188,24 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 [HENTAIPULSE.COM]
 104.28.18.126 hentaipulse.com www.hentaipulse.com
+
+[PORNKTUBE.COM]
+212.32.236.86 pornktube.com www.pornktube.com
+
+[LIVESOCCERS.TV]
+104.31.13.161 livesoccers.tv www.livesoccers.tv
+
+[60FPS.LIVE]
+104.31.1.176 60fps.live www.60fps.live
+
+[STREAM-CR7.NET]
+104.24.109.24 stream-cr7.net www.stream-cr7.net
+
+[ROJADIRECTA.ME]
+176.56.226.176 rojadirecta.me www.rojadirecta.me
+
+[MYFEED2ALL.EU]
+80.82.70.121 myfeed2all.eu www.myfeed2all.eu
+
+[USAGOALS.NET]
+104.18.39.6 usagoals.net www.usagoals.net

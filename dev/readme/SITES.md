@@ -502,3 +502,10 @@
 - Toomics.com
 - Xhamster12.com
 - Hentaipulse.com
+- Stream-cr7.net 
+- 60fps.live
+- Livesoccers.tv
+- Pornktube.com
+- Rojadirecta.me
+- Myfeed2all.eu
+- Usagoals.net

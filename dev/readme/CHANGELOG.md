@@ -1,4 +1,16 @@
 # Changelog
+**v7.8** New sites added, bugs fixed
+- Stream-cr7.net 
+- 60fps.live
+- Livesoccers.tv
+- Pornktube.com
+- Rojadirecta.me
+- Myfeed2all.eu
+- Usagoals.net
+
+```
+Fixed bug on Hanime, Donmai, Vimeo, Bitporno, Netflix, Rmz, Eporner, Luscious
+```
 **v7.7** New sites added, bugs fixed
 - Xhamster12.com
 - Hentaipulse.com
