@@ -19,12 +19,10 @@
     <img src="https://files.catbox.moe/bo41ah.png" alt="PENGUMUMAN" width="1030">
 </p>
 
-BEBASID dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts.
+BEBASID dapat membantu anda untuk membuka halaman website yang diblokir Internet Positif melalui hosts.
 
 # Download
 Untuk menggunakan aplikasi ini, kamu bisa download [di sini](https://bebasid.github.io)
-
-Mungkin di perangkat Anda aplikasi ini akan terdeteksi sebagai virus oleh Antivirus, tetapi sebenarnya hal tersebut hanya false positive.
 
 [VirusTotal](https://www.virustotal.com/gui/file-analysis/NTIwZTY0MTYzOTNhY2ZhMGJkMzI1ZmJmNDc3YTJhNWM6MTU2NDAzMjk0Mw==/detection).
 
