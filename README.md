@@ -19,12 +19,12 @@
     <img src="https://files.catbox.moe/bo41ah.png" alt="PENGUMUMAN" width="1030">
 </p>
 
-BEBASID dapat membantu anda untuk membuka halaman website yang diblokir Internet Positif melalui hosts.
+BEBASID dapat membantu membuka halaman website yang diblokir Internet Positif dengan memanfaatkan hosts.
 
 # Download
 Untuk menggunakan aplikasi ini, kamu bisa download [di sini](https://bebasid.github.io)
 
-[VirusTotal](https://www.virustotal.com/gui/file-analysis/NTIwZTY0MTYzOTNhY2ZhMGJkMzI1ZmJmNDc3YTJhNWM6MTU2NDAzMjk0Mw==/detection).
+Selengkapnya: [VirusTotal](https://www.virustotal.com/gui/file-analysis/NTIwZTY0MTYzOTNhY2ZhMGJkMzI1ZmJmNDc3YTJhNWM6MTU2NDAzMjk0Mw==/detection).
 
 # Supported Sites
 Semua daftar situs yang support bisa kamu cek [di sini](https://github.com/gvoze32/bebasid/blob/master/dev/readme/SITES.md).
