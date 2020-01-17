@@ -3,6 +3,10 @@
 
 Jalankan BEBASID.exe dengan "Run as administrator". Kemudian ikuti instruksi yang ada.
 
+Untuk instalasi secara manual, bisa copy file hosts bebasid ke
+```
+C:\Windows\System32\drivers\etc
+```
 Jika halaman masih belum bisa terbuka, silahkan lakukan flush dns di cmd.
 
 ```
