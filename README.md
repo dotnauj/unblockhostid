@@ -16,15 +16,15 @@
 </p>
 
 <p align="center">
-    <img src="https://files.catbox.moe/bo41ah.png" alt="PENGUMUMAN" width="1030">
+    UPDATE:
+    
+   Untuk bug Netflix, sekarang masih dalam tahap pengerjaan, paling cepat akan selesai pada hari Senin (27/1/20), dan paling lambat dalam waktu satu bulan. Tunggu kami melakukan comeback, tetaplah berharap.
 </p>
 
-BEBASID dapat membantu membuka halaman website yang diblokir Internet Positif dengan memanfaatkan hosts.
-
 # Download
-Untuk menggunakan aplikasi ini, kamu bisa download [di sini](https://bebasid.github.io)
+Untuk menggunakan aplikasi ini, kamu bisa download [di sini](https://bebasid.github.io).
 
-Selengkapnya: [VirusTotal](https://www.virustotal.com/gui/file-analysis/NTIwZTY0MTYzOTNhY2ZhMGJkMzI1ZmJmNDc3YTJhNWM6MTU2NDAzMjk0Mw==/detection).
+Selengkapnya: [VirusTotal](https://www.virustotal.com/gui/file/a160cd098a0bda38eae924b4a457a6059bed6662d4833271397728aaa3bd8aa6/detection)
 
 # Supported Sites
 Semua daftar situs yang support bisa kamu cek [di sini](https://github.com/gvoze32/bebasid/blob/master/dev/readme/SITES.md).
@@ -37,7 +37,7 @@ Fitur ini hanya bisa didapatkan dari donasi, silahkan kontak kami setelah mengir
 
 Untuk donasi bisa kontak saya melalui email. 
 
-Note: Bagi yang gagal login, silahkan download [2007 Office System Driver: Data Connectivity Components](https://download.cnet.com/2007-Office-System-Driver-Data-Connectivity-Components/3000-10254_4-75452798.html) karena database hanya support komponen lama.
+Note: Bagi yang gagal login, silahkan download [2007 Office System Driver: Data Connectivity Components](https://download.cnet.com/2007-Office-System-Driver-Data-Connectivity-Components/3000-10254_4-75452798.html) karena database hanya mendukung komponen lama.
 
 # Netflix
 Untuk cara menembus blokiran Netflix, silahkan menuju [NETFLIX.md](https://github.com/gvoze32/bebasid/blob/master/dev/readme/NETFLIX.md).
