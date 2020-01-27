@@ -1,7 +1,6 @@
 # About
 # Support Indonesian Net Neutrality
 # Project home page: https://bebasid.github.io
-# Hosts listed by gvoze32
 #
 # Rules
 # Dengan mengunduh BEBASID dan perangkat lunak terkait dan menggunakan aplikasi ini, Anda menerima dan setuju untuk terikat dan mematuhi ketentuan berikut:
@@ -29,16 +28,6 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
-
-About
-Support Indonesian Net Neutrality
-Project home page: https://bebasid.github.io
-Hosts listed by gvoze32
-
-Rules
-Dengan mengunduh BEBASID dan perangkat lunak terkait dan menggunakan aplikasi ini, Anda menerima dan setuju untuk terikat dan mematuhi ketentuan berikut:
-Disclaimer: https://github.com/gvoze32/bebasid/blob/master/RULES.md
-Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini sudah tidak terkait dengan BEBASID.
 
 # [REDDIT.COM]
 151.101.129.140 reddit.com
@@ -328,15 +317,17 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 185.88.181.4 upload.xvideos.com
 185.88.181.4 static-l16.xvideos.com
 185.88.181.4 flashservice.xvideos.com
-67.26.250.251 static-l3.xvideos.com
+8.252.191.251 static-l3.xvideos.com
 152.195.13.91 static-egc.xvideos-cdn.com
-141.0.168.12 static-ss.xvideos-cdn.com
+69.55.53.169 static-ss.xvideos-cdn.com
 8.247.111.123 hls4-l3.xvideos-cdn.com
 152.195.13.88 vid-egc.xvideos-cdn.com
 185.180.13.220 cdn77-pic.xvideos-cdn.com
 152.195.13.91 img-egc.xvideos-cdn.com
 152.195.13.91 img-hw.xvideos-cdn.com
 8.253.209.251 img-l3.xvideos-cdn.com
+8.240.44.251 static-l3.xvideos-cdn.com
+209.197.3.84 static-hw.xvideos-cdn.com
 178.79.244.53 porn1-im-7688ec00-10333156-hlsinths.x.xvideos.com
 
 # [PAHEAL.NET]
@@ -369,6 +360,105 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 51.91.51.161 vcdn-ssd-ca-120.spankbang.com
 51.91.25.235 vcdn-ssd-ca-85.spankbang.com
 51.91.27.93 vcdn-ca-112.spankbang.com
+158.69.229.93 heaven1.spankbang.com 
+158.69.229.93 heaven2.spankbang.com 
+158.69.228.129 heaven3.spankbang.com 
+158.69.229.93 heaven4.spankbang.com 
+158.69.228.105 heaven5.spankbang.com 
+158.69.228.105 heaven6.spankbang.com 
+158.69.229.93 heaven7.spankbang.com 
+158.69.228.105 heaven8.spankbang.com 
+158.69.229.93 heaven9.spankbang.com 
+158.69.228.105 heaven10.spankbang.com 
+158.69.228.105 heaven11.spankbang.com 
+158.69.228.105 heaven12.spankbang.com 
+158.69.228.130 heaven13.spankbang.com 
+158.69.228.130 heaven14.spankbang.com 
+158.69.228.130 heaven15.spankbang.com 
+158.69.228.106 heaven16.spankbang.com 
+158.69.228.106 heaven17.spankbang.com 
+158.69.228.106 heaven18.spankbang.com 
+158.69.229.94 heaven19.spankbang.com 
+158.69.228.130 heaven20.spankbang.com 
+158.69.228.130 heaven21.spankbang.com 
+158.69.228.130 heaven22.spankbang.com 
+158.69.228.106 heaven23.spankbang.com 
+158.69.229.94 heaven24.spankbang.com 
+158.69.228.107 heaven25.spankbang.com 
+158.69.229.95 heaven26.spankbang.com 
+158.69.229.95 heaven27.spankbang.com 
+158.69.229.95 heaven28.spankbang.com 
+158.69.228.131 heaven29.spankbang.com 
+158.69.229.95 heaven30.spankbang.com 
+158.69.229.95 heaven31.spankbang.com 
+158.69.228.131 heaven32.spankbang.com 
+158.69.228.131 heaven33.spankbang.com 
+158.69.229.95 heaven34.spankbang.com 
+158.69.228.131 heaven35.spankbang.com 
+158.69.228.131 heaven36.spankbang.com 
+158.69.228.108 heaven37.spankbang.com 
+158.69.229.131 heaven38.spankbang.com 
+158.69.229.131 heaven39.spankbang.com 
+158.69.228.133 heaven40.spankbang.com 
+158.69.229.131 heaven41.spankbang.com 
+158.69.228.108 heaven42.spankbang.com 
+158.69.228.133 heaven43.spankbang.com 
+158.69.228.133 heaven44.spankbang.com 
+158.69.228.133 heaven45.spankbang.com 
+158.69.228.108 heaven46.spankbang.com 
+158.69.228.133 heaven47.spankbang.com 
+158.69.228.108 heaven48.spankbang.com 
+158.69.229.144 heaven49.spankbang.com 
+158.69.228.134 heaven50.spankbang.com 
+158.69.228.109 heaven51.spankbang.com 
+158.69.229.144 heaven52.spankbang.com 
+158.69.228.134 heaven53.spankbang.com 
+158.69.228.134 heaven54.spankbang.com 
+158.69.228.109 heaven55.spankbang.com 
+158.69.228.134 heaven56.spankbang.com 
+158.69.228.109 heaven57.spankbang.com 
+158.69.228.109 heaven58.spankbang.com 
+158.69.229.144 heaven59.spankbang.com 
+158.69.228.109 heaven60.spankbang.com 
+158.69.228.136 heaven61.spankbang.com 
+158.69.228.136 heaven62.spankbang.com 
+158.69.229.145 heaven63.spankbang.com 
+158.69.229.145 heaven64.spankbang.com 
+158.69.228.136 heaven65.spankbang.com 
+158.69.229.145 heaven66.spankbang.com 
+158.69.228.136 heaven67.spankbang.com 
+158.69.228.110 heaven68.spankbang.com 
+158.69.228.136 heaven69.spankbang.com 
+158.69.228.110 heaven70.spankbang.com 
+158.69.228.110 heaven71.spankbang.com 
+158.69.228.110 heaven72.spankbang.com 
+158.69.228.123 heaven73.spankbang.com 
+158.69.229.151 heaven74.spankbang.com 
+158.69.228.122 heaven75.spankbang.com 
+158.69.228.123 heaven76.spankbang.com 
+158.69.228.122 heaven77.spankbang.com 
+158.69.229.151 heaven78.spankbang.com 
+158.69.228.123 heaven79.spankbang.com 
+158.69.229.151 heaven80.spankbang.com 
+158.69.228.123 heaven81.spankbang.com 
+158.69.228.122 heaven82.spankbang.com 
+158.69.228.123 heaven83.spankbang.com 
+158.69.228.122 heaven84.spankbang.com 
+158.69.228.124 heaven85.spankbang.com 
+158.69.228.124 heaven86.spankbang.com 
+158.69.228.124 heaven87.spankbang.com 
+158.69.229.152 heaven88.spankbang.com 
+158.69.228.124 heaven89.spankbang.com 
+158.69.228.127 heaven90.spankbang.com 
+158.69.228.124 heaven91.spankbang.com 
+158.69.228.127 heaven92.spankbang.com 
+158.69.228.124 heaven93.spankbang.com 
+158.69.228.124 heaven94.spankbang.com 
+158.69.228.127 heaven95.spankbang.com 
+158.69.229.152 heaven96.spankbang.com 
+158.69.229.163 heaven97.spankbang.com 
+158.69.228.132 heaven98.spankbang.com 
+158.69.228.132 heaven99.spankbang.com
 
 # [DMM.COM]
 103.254.144.94 stat.i3.dmm.com
@@ -536,8 +626,8 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 # [ROTTEN.COM]
 216.218.248.135 rotten.com www.rotten.com
 
-# [HENTAIMAMA.COM]
-104.28.29.117 hentaimama.com www.hentaimama.com
+# [HENTAIMAMA.IO]
+104.18.54.140 hentaimama.io www.hentaimama.io
 
 # [GIPHY.COM]
 151.101.38.2 media2.giphy.com
@@ -1842,8 +1932,14 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 104.18.45.148 kaotic.com www.kaotic.com
 
 # [NOZOMI.LA]
-185.145.129.33 nozomi.la www.nozomi.la
+185.145.129.33 nozomi.la
+185.145.129.33 www.nozomi.la
 192.240.120.10 j.nozomi.la
+192.240.120.10 i.nozomi.la
+185.145.129.33 ns3.nozomi.la
+178.17.174.221 ns2.nozomi.la
+192.240.120.10 ns1.nozomi.la n.nozomi.la
+192.240.120.10 tn.nozomi.la
 
 # [PORNHD.TO]
 104.27.140.50 pornhd.to www.pornhd.to
@@ -1922,6 +2018,7 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 # [ONLYFANS.COM]
 54.175.88.73 onlyfans.com www.onlyfans.com
+99.86.58.57 static.cdn.onlyfans.com
 
 # [BEEG.COM]
 192.243.54.98 beeg.com www.beeg.com
@@ -2233,3 +2330,18 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 # [USAGOALS.NET]
 104.18.39.6 usagoals.net www.usagoals.net
+
+# [KSHOW123.NET]
+104.27.150.41 kshow123.net www.kshow123.net
+
+# [ASHEMALETUBE.COM]
+213.174.148.157 ashemaletube.com www.ashemaletube.com
+
+# [XXXBUNKER.COM]
+77.247.181.42 xxxbunker.com www.xxxbunker.com
+
+# [JAPANESEASMR.COM]
+104.31.72.78 japaneseasmr.com www.japaneseasmr.com
+
+# [CEPORN.NET]
+104.31.91.157 ceporn.net www.ceporn.net

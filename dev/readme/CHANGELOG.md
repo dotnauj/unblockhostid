@@ -1,4 +1,16 @@
 # Changelog
+**v7.9** New sites added, bugs fixed
+- Ceporn.net
+- Xxxbunker.com 
+- Japaneseasmr.com
+- Ashemaletube.com
+- Kshow123.net
+
+```
+Fixed bug on Nozomi, Spankbang, Onlyfans, Xvideos
+Moved Hentaimama.com to Hentaimama.io
+```
+
 **v7.8** New sites added, bugs fixed
 - Stream-cr7.net 
 - 60fps.live
