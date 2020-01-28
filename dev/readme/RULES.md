@@ -1,5 +1,7 @@
 # Disclaimer
-BEBASID adalah sebuah aplikasi yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan dan kenetralan dalam berinternet di Indonesia.
+BEBASID adalah sebuah proyek yang digunakan untuk membuka website yang telah diblokir dengan tujuan mendukung kebebasan dan kenetralan dalam berinternet di Indonesia.
+
+Proyek BEBASID berbentuk komunitas, jadi tidak ada kepemilikan dalam proyek ini, semua murni dari komunitas, oleh komunitas, dan untuk komunitas.
 
 Kami sebagai komunitas tertarik dengan pengembangan BEBASID dalam mengatasi pemblokiran website di Indonesia. Hal ini tentu karena pemblokiran dari Kementerian Komunikasi dan Informatika (Kominfo) memiliki celah yang cukup signifikan. Terlepas dari hal itu semua, komunitas kami juga mendukung pemblokiran dari Kominfo karena juga memiliki manfaat yang cukup baik untuk kesehatan internet Indonesia dikarenakan banyak dari mereka yang berisikan konten perjudian serta transaksi narkotika, psikotropika, dan zat adiktif lainnya.
 
