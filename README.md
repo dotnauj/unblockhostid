@@ -45,5 +45,3 @@ Untuk yang ingin request dan melaporkan adanya bug, silahkan untuk open issue [d
 
 # Rules
 Sebelum menggunakan aplikasi ini, Anda wajib mematuhi peraturan yang kami buat, dengan menggunakan aplikasi ini Anda berarti menerima segala akibat yang ditimbulkan. Lihat [RULES](https://github.com/bebasid/bebasid/blob/master/dev/readme/RULES.md).
-
-**Dari komunitas, oleh komunitas, untuk komunitas.**

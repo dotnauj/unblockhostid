@@ -1,4 +1,17 @@
 # Changelog
+**v8.0** New sites added, bugs fixed
+- Realdoll.com
+- Javfinder.sh
+- Openloadpro.com
+- Czechvideo.org
+- Unjayv.xyz
+- Pahe.in
+- Javportal.net
+
+```
+Fixed bug on Yespornplease, Imghentai, Hanime
+```
+
 **v7.9** New sites added, bugs fixed
 - Ceporn.net
 - Xxxbunker.com 

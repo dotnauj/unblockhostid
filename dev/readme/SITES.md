@@ -514,3 +514,10 @@
 - Japaneseasmr.com
 - Ashemaletube.com
 - Kshow123.net
+- Realdoll.com
+- Javfinder.sh
+- Openloadpro.com
+- Czechvideo.org
+- Unjayv.xyz
+- Pahe.in
+- Javportal.net
