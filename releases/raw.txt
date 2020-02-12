@@ -2347,3 +2347,9 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 # [PAHE.IN]
 104.27.132.141 pahe.in www.pahe.in
+
+# [TERK.NL]
+37.128.144.49 terk.nl www.terk.nl
+
+# [141JAV.COM]
+104.31.7.180 141jav.com www.141jav.com
