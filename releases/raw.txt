@@ -608,21 +608,6 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 # [HENTAIMAMA.IO]
 104.18.54.140 hentaimama.io www.hentaimama.io
 
-# [GIPHY.COM]
-151.101.38.2 media2.giphy.com
-66.6.32.22 blog.giphy.com
-151.101.38.2 media3.giphy.com
-151.101.38.2 tv.giphy.com
-151.101.38.2 media0.giphy.com
-52.216.64.210 labs.giphy.com
-151.101.193.185 giphy.com www.giphy.com
-151.101.38.2 media1.giphy.com
-151.101.38.2 media.giphy.com
-151.101.38.2 api.giphy.com
-34.201.177.177 developers.giphy.com
-52.202.213.23 developers.giphy.com
-151.101.54.2 developers.giphy.com
-
 # [JAVFULL.TV]
 104.24.104.142 javfull.tv www.javfull.tv
 104.27.172.92 javfull.net www.javfull.net
